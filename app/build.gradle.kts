@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "ru.otus.coroutines"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ru.otus.coroutines"
